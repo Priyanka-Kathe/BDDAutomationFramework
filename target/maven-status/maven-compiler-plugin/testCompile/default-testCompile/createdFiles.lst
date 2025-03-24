@@ -1,0 +1,16 @@
+com\qa\pages\LoginPage.class
+com\qa\util\ElementActions.class
+com\qa\pages\AddEmployeePage.class
+com\qa\util\CaptureScreenshot.class
+com\qa\pages\BuzzPage.class
+com\qa\util\ReadProperties.class
+com\qa\runner\Runner.class
+com\qa\pages\EmployeeReports.class
+com\qa\stepdefinations\BuzzCRUD.class
+com\qa\stepdefinations\EmpTimeSheet.class
+com\qa\pages\MyTimehseetPage.class
+com\qa\stepdefinations\RecruitmentCRUD.class
+com\qa\base\Base.class
+com\qa\stepdefinations\EmployeeCRUD.class
+com\qa\pages\RecruitmentPage.class
+com\qa\util\WaitMethods.class
